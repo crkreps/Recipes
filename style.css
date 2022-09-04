@@ -1,1 +1,13 @@
-sss
+html, body {
+	min-height: 100%;
+	background-color : rgb(230, 107, 107);
+	color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+img {flex: 1;}
